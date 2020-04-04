@@ -5,7 +5,7 @@
 // @description     下载携程航班数据
 // @include         http*://flights.ctrip.com/schedule/*-*map.html
 // @require         http://cdn.bootcss.com/jquery/1.8.3/jquery.min.js
-// @version         1.0.2
+// @version         1.0.3
 // @grant           none
 // ==/UserScript==
 
